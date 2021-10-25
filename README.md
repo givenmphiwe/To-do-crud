@@ -18,7 +18,7 @@ id(PRI,int)
 name(varchar)
 password(varchar)
 
-#Front-end folder
+# Front-end folder
 (React native)
 The folder container front end .The documents for front end are located in the src/Components..
 The front end communicates with the server.js and Lavarel to store user's database in the pgAdmin
